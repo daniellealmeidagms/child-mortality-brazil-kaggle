@@ -2,7 +2,7 @@
 
 Predição da probabilidade de óbito de um bebê a partir de dados da mãe, do pré-natal e do parto.
 
-Os conjuntos de dados utiizados neste trabalho são referentes a óbitos de crianças no Brasil e estão disponíveis na plataforma Kaggle.
+Os conjuntos de dados utiizados neste trabalho são referentes a óbitos de crianças no estado de Goiás (Brasil) e estão disponíveis na plataforma Kaggle.
 
 Foram avaliados cinco modelos de classificação disponíveis na biblioteca Scikit-Learn: 
 1) Regressão Logística (Logistic Regression)
