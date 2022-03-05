@@ -38,4 +38,4 @@ The models above were associated with three different undersampling techniques:
 
 ---
 
-Projeto desenvolvido para o segundo módulo do curso de Especialização em Inteligência Artifical Aplicada, semestre 2021/2, do Instituto Federal de Goiás - Câmpus Goiânia.
+Projeto desenvolvido para a disciplina Modelagem de Dados do curso de Especialização em Inteligência Artifical Aplicada, semestre 2021/2, do Instituto Federal de Goiás - Câmpus Goiânia.
